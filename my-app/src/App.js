@@ -13,7 +13,7 @@ function App() {
             <InfoBlock
               title="Technology"
               content="This is our product"
-              image="download.jpg" // Replace with your actual image URL
+              image="https://github.com/ttyuli2002/Product-Showcase-Website/blob/main/my-app/src/download.jpg" // Replace with your actual image URL
             />
           </div>
       </header>
