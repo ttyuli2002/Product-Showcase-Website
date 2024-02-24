@@ -1,0 +1,24 @@
+.info-block {
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .info-image {
+    width: 100px;
+    height: auto;
+    margin-right: 20px;
+    border-radius: 8px;
+  }
+  
+  .info-text h2 {
+    margin-top: 0;
+  }
+  
+  .info-text p {
+    line-height: 1.6;
+  }
