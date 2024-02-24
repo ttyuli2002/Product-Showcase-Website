@@ -1,5 +1,5 @@
 import React from 'react';
-import './Infoblock.css'; // Ensure your CSS is set up to handle images
+import './Infoblock.css'; 
 
 function InfoBlock({ title, content, image }) {
   return (
