@@ -1,6 +1,11 @@
 .navbar {
     background-color: #333;
     overflow: hidden;
+    position: fixed; 
+    top: 0; 
+    left: 0;
+    width: 100%; 
+    z-index: 1000;
   }
   
   .nav-links {
@@ -26,3 +31,8 @@
     background-color: #ddd;
     color: black;
   }
+  
+  body {
+    padding-top: 50px; 
+  }
+  
